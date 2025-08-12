@@ -10,9 +10,11 @@ Este Notebook está organizado de acordo com as seguintes seções:
 4. Média de Avaliação das Lojas
 5. Produtos mais e menos vendidos
 6. Frete Médio por Loja
+7. Gráficos
+8. Relatório
 
 ## Tecnologias utilizadas
 - Python3
 - Pandas
 - Matplotlib
-- Google Colab
+- Jupiter Notebook
